@@ -28,7 +28,7 @@ In the team I belong to (the great Data Engineering team 👨🏻‍🔬👷🏽
 
 **🪦 Previously at:** Splend (2020), Cytora (2018), CognitionX (2016)
 
-**📫 How to reach me:** `me [at] joseantunes [dot] tech`
+**📫 How to reach me:** `me [at] joseantunes [dot] tech` - please add `[GH Contact]` at the start of the email subject :)
 
 <!--
 **theholy7/theholy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
