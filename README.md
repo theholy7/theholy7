@@ -1,6 +1,8 @@
 ### Hi there, my name is Jose! 👋
 
-I am an Engineer that produces code. Software? Data? Why not both? I care about good code, good design, good testing, and good monitoring. Things that make software easier to work with, and easier to maintain and run.
+I am an Engineer that produces code.
+
+I care about good code, good design, good testing, and good monitoring. Things that make software easier to work with, and easier to maintain and run.
 
 ---
 
